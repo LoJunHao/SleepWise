@@ -1,0 +1,6 @@
+{
+  "name": "SleepWise Calculator",
+  "description": "An evidence-based sleep calculator incorporating sleep science, chronotype analysis, sleep debt calculations, and sleep hygiene suggestions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
